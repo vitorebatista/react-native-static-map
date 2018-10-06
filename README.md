@@ -1,1 +1,1 @@
-# react-native-static-map
+# react-native-static-maps
